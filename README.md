@@ -1,5 +1,7 @@
 # Nick's system design library
-For excalidraw. I wanted to provide extensive, stylish, one-and-only system design components library to build beautiful and precise diagrams.
+For excalidraw.com drawing tool. I wanted to provide extensive, stylish, one-and-only system design components library to build beautiful and precise diagrams.
+
+Usage: download .excalidrawlib file, drag and drop it onto browser tab with excalidraw open.
 
 ## Components
 ### Service architecture
