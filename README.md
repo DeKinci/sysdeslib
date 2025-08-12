@@ -3,6 +3,9 @@ For excalidraw.com drawing tool. I wanted to provide extensive, stylish, one-and
 
 Usage: download .excalidrawlib file, drag and drop it onto browser tab with excalidraw open.
 
+Here is a showcase with a 3 minute draft of some yet another AI service:
+<img width="1714" height="1027" alt="image" src="https://github.com/user-attachments/assets/f96bb6c5-1a61-48b6-8285-0877e0ef64de" />
+
 ## Components
 ### Service architecture
 <img width="386" height="387" alt="image" src="https://github.com/user-attachments/assets/3c231f09-b87e-4773-bca8-d62b3f4db8a0" />
