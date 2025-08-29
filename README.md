@@ -1,5 +1,5 @@
 # Nick's system design library
-For [excalidraw.com](excalidraw.com) drawing board. I put together an extensive, well-designed architecture components library to help build clean and precise diagrams.
+For [excalidraw.com](excalidraw.com) drawing board. I put together an extensive and stylish architecture components library to help build clean and precise diagrams.
 
 **Usage:**  
 Download the `.excalidrawlib` file and drag it into an open Excalidraw tab in your browser.
