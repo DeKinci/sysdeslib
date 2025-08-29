@@ -1,12 +1,16 @@
 # Nick's system design library
-For excalidraw.com drawing tool. I wanted to provide extensive, stylish, one-and-only system design components library to build beautiful and precise diagrams.
+For [excalidraw.com](excalidraw.com) drawing board. I put together an extensive, well-designed architecture components library to help build clean and precise diagrams.
 
-Usage: download .excalidrawlib file, drag and drop it onto browser tab with excalidraw open.
+**Usage:**  
+Download the `.excalidrawlib` file and drag it into an open Excalidraw tab in your browser.
 
-Here is a showcase with a 3 minute draft of some yet another AI service:
+Here’s a quick 2-minute draft of some generic AI service as an example:
 <img width="1714" height="1027" alt="image" src="https://github.com/user-attachments/assets/f96bb6c5-1a61-48b6-8285-0877e0ef64de" />
 
 ## Components
+
+All components where designed to look good with both strict and sloppy drawing styles, as well as work well with attached arrows.
+
 ### Service architecture
 <img width="386" height="387" alt="image" src="https://github.com/user-attachments/assets/3c231f09-b87e-4773-bca8-d62b3f4db8a0" />
 
