@@ -10,6 +10,7 @@ Here is a showcase with a 3 minute draft of some yet another AI service:
 ### Service architecture
 <img width="386" height="387" alt="image" src="https://github.com/user-attachments/assets/3c231f09-b87e-4773-bca8-d62b3f4db8a0" />
 
+Services — base building blocks of complex systems.
 - **Service instance**
 - **Service layer**
 - **Scaled service**
@@ -19,6 +20,8 @@ Here is a showcase with a 3 minute draft of some yet another AI service:
 - **Edge node/service**
 - **CRON job**
 - **Serverless function**
+
+Appendices — add them to any block to highlight advanced behavior.
 - **Retry policy appendix**
 - **Outbox messaging appendix**
 - **Rate limiter appendix**
@@ -27,6 +30,7 @@ Here is a showcase with a 3 minute draft of some yet another AI service:
 ### Databases
 <img width="378" height="400" alt="image" src="https://github.com/user-attachments/assets/2ddb133e-1890-42bd-be3c-4b9de28242d7" />
 
+Database selection of many flavors. Queues and patterns included!
 - **Generic Database**
 - **Relational Database**
 - **Cache (appendix)**
@@ -46,7 +50,6 @@ Here is a showcase with a 3 minute draft of some yet another AI service:
 ### Cloud
 <img width="389" height="116" alt="image" src="https://github.com/user-attachments/assets/3ecfad6a-c8df-49ca-9d58-2930a6c52174" />
 
-
 - **Generic cloud**
 - **CDN**
 - **Cloud payment**
@@ -64,7 +67,7 @@ Here is a showcase with a 3 minute draft of some yet another AI service:
 ### Infra and Misc
 <img width="392" height="313" alt="image" src="https://github.com/user-attachments/assets/26cd2138-8963-4d36-bdd1-e3b6f0fed53d" />
 
-
+Crucial components that don't really fit into other groups.
 - **Load balancer**
 - **Observability stack** - Logs, metrics, traces, alerts
 - **Process chain**
@@ -73,6 +76,8 @@ Here is a showcase with a 3 minute draft of some yet another AI service:
 - **Hardware server**
 - **Business Process Modeling** - e.g. Camunda
 - **Map-Reduce pattern**
+
+Badges to highlight flows and statuses.
 - **Ok badge**
 - **Warning badge**
 - **Error badge**
